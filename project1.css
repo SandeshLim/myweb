@@ -1,0 +1,25 @@
+h1{
+  
+  color:red
+}
+h1{
+  text-align:center
+}
+.code{
+  margin:20px;
+  color:brown
+}
+
+.me{
+  text-align:justify; 
+  /* this will make the line straight and well structured */
+  color:blueviolet
+  
+}
+.goal{
+  text-align: justify;
+  color:green
+
+}
+
+
